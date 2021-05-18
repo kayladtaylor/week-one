@@ -23,6 +23,8 @@ However, after writing the tutorial paragraph, it became less intimidating and a
      2.  *However*, you can also embed them now, example: ![image name] (imagefile) (without the space between the 2 sets of brackets and add the .png or .jpg to the imagefile.
      3.  **MAKE SURE TO DOUBLE CHECK IMAGES** a couple of mine still didn't work after uploading, so I had to re-due the tag.
 
+      - Still a couple of my photos wont show up properly, and I'm not entirely sure why. Will have to ask Prof, and update later.
+
 
 
 3. __Anaconda__
